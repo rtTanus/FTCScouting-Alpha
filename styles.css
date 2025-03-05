@@ -1,0 +1,42 @@
+
+
+
+.divForm{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    
+}
+.formularioScout{
+    width: 60vw;
+    height: 70vh;
+
+}
+.caixaLaranja{
+    background-color: rgb(255, 145, 0);
+    padding: 20px;
+    border-radius:20px;
+}
+
+@media screen {
+    .divForm{
+        display: flex;
+        width: 100vw;
+        height: 100vh;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    .formularioScout{
+        width: 60vw;
+        height: 70vh;
+    
+    }
+    .caixaLaranja{
+        background-color: rgb(255, 145, 0);
+        padding: 20px;
+        border-radius:20px;
+    }
+}
